@@ -24,7 +24,7 @@ Redesign the "Choose your skip size" page at:
 
 3. Component Design:
 
-   - Each skip option is displayed as a card with relevant information.
+   -  Each skip option is presented as an interactive button styled as a dynamic card that reflects the corresponding skip size (in yards).
    - Clickable UI elements have hover/focus states for accessibility.
 
 4. Responsiveness:
@@ -41,14 +41,15 @@ Redesign the "Choose your skip size" page at:
 ### 📸 Screenshots
 
 Desktop and Mobile
-
+![img.png](img.png)
+![img_1.png](img_1.png)![img_2.png](img_2.png)![img_3.png](img_3.png)
 ### 🔧 Getting Started
 
 To run the app locally:
 
 #### 1. Clone the repository
 
-> git clone https://github.com/your-username/wewantwaste-skip-redesign.git
+> git clone https://github.com/henok-projects/garden-waste-redesign.git
 >
 > cd frontend
 
@@ -64,24 +65,24 @@ Visit http://localhost:5173 in your browser.
 
 ### 🔗 Live Demo & Submission Links
 
-- GitHub Repo: https://github.com/your-username/wewantwaste-skip-redesign
-- Sandbox / Live URL: https://your-sandbox-link.vercel.app (Vercel)
+- GitHub Repo: https://github.com/henok-projects/garden-waste-redesign.git
+- Sandbox / Live URL: https://garden-waste-redesign.vercel.app/ (Vercel)
 - UU/UX https://www.figma.com/design/HxSHgfB6EK7RL0iPweHHmW/HF?node-id=569-1071&p=f
 
 ### 📁 Project Structure
 
 ```bash
-frontend/
-├── public/
-├── src/
-│ ├── components/
-│ ├── assets/
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── index.html
-├── vite.config.js
-└── README.md
+    frontend/
+    ├── public/
+    ├── src/
+    │ ├── components/
+    │ ├── assets/
+    │ ├── App.jsx
+    │ ├── main.jsx
+    │ └── index.css
+    ├── index.html
+    ├── vite.config.js
+    └── README.md
 ```
 
 🙌 Thank You
