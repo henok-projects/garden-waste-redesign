@@ -42,7 +42,7 @@ Redesign the "Choose your skip size" page at:
 
 Desktop and Mobile
 ![img.png](img.png)
-![img_1.png](img_1.png)![img_2.png](img_2.png)![img_3.png](img_3.png)
+![img_1.png](img_1.png)![img_3.png](img_3.png)
 ### 🔧 Getting Started
 
 To run the app locally:
